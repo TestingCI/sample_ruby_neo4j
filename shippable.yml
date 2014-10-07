@@ -10,3 +10,4 @@ services:
   
 script:
   - ruby sample.rb
+cache: true
